@@ -1,0 +1,52 @@
+Tanks Evolution 3.7.2
+Copyright (c) 2026 Fu113erver. All rights reserved.
+
+CERTIFICATE OF AUTHENTICITY:
+This file certifies that the accompanying software, "Tanks Evolution", is a legally obtained, authorized copy. The presence of this file in the software directory serves as the official proof of license and grants the user the rights defined in the End User License Agreement (EULA) below.
+
+END USER LICENSE AGREEMENT (EULA):
+
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement, Fu113erver grants the user a personal, non-transferable, non-exclusive, and limited license to install and use this software for individual, non-commercial purposes.
+
+2. RESTRICTIONS
+You may not:
+a) Copy, distribute, or publish any part of this software.
+b) Modify, decompile, reverse-engineer, or attempt to derive the source code of the software.
+c) Sell, rent, lease, or sublicense the software to third parties.
+d) Remove or alter any proprietary notices or labels.
+
+3. OWNERSHIP
+This software is licensed, not sold. All title, ownership rights, and intellectual property rights in and to the software remain exclusively with Fu113erver.
+
+4. PRIVACY POLICY
+The software "Tanks Evolution" does not collect, store, or transmit any personal data, usage statistics, or identifiable user information to the developer or third parties. Your usage of this software remains entirely private and local to your device.
+
+5. TERMINATION
+This license is effective until terminated. Failure to comply with any provision of this Agreement will result in the automatic termination of this license. Upon termination, you must destroy all copies of the software in your possession.
+
+***
+
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ (EULA)
+
+СЕРТИФИКАТ ПОДЛИННОСТИ:
+Данный файл подтверждает, что сопровождающее программное обеспечение "Tanks Evolution" является законно приобретенной, авторизованной копией. Наличие данного файла в директории программного обеспечения служит официальным доказательством наличия лицензии и предоставляет пользователю права, определенные в данном Лицензионном соглашении с конечным пользователем (EULA).
+
+1. ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ
+В соответствии с условиями настоящего Соглашения, Fu113erver предоставляет пользователю личную, непередаваемую, неисключительную и ограниченную лицензию на установку и использование данного программного обеспечения в личных, некоммерческих целях.
+
+2. ОГРАНИЧЕНИЯ
+Вы не имеете права:
+а) Копировать, распространять или публиковать любую часть данного программного обеспечения.
+б) Изменять, декомпилировать, подвергать обратной разработке или пытаться извлечь исходный код программного обеспечения.
+в) Продавать, сдавать в аренду или сублицензировать программное обеспечение третьим лицам.
+г) Удалять или изменять любые уведомления о правах собственности или маркировки.
+
+3. ПРАВО СОБСТВЕННОСТИ
+Данное программное обеспечение лицензируется, а не продается. Все права собственности, права владения и права интеллектуальной собственности на программное обеспечение остаются исключительно за Fu113erver.
+
+4. ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+Программное обеспечение "Tanks Evolution" не собирает, не хранит и не передает разработчику или третьим лицам какие-либо персональные данные, статистику использования или идентифицирующую пользователя информацию. Использование вами данного программного обеспечения остается полностью конфиденциальным и локальным для вашего устройства.
+
+5. ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ
+Данная лицензия действует до момента ее прекращения. Несоблюдение любого из положений настоящего Соглашения приведет к автоматическому прекращению действия данной лицензии. В случае прекращения действия лицензии вы обязаны уничтожить все имеющиеся у вас копии программного обеспечения.
